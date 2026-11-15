@@ -1,6 +1,7 @@
 # Introduzione a Python per l'analisi dati
 
 Materiale del corso: 3 lezioni da 3 ore su Python, NumPy, pandas, Matplotlib e seaborn.
+Tutto il codice di lezioni, esempio e soluzioni gira senza errori con pandas 2.2.3 e 3.0.5.
 
 **Sito del corso:** <https://emanbuc.github.io/corso_intro_python_analisi_dati/>
 
